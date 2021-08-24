@@ -6,14 +6,27 @@
     <description>Recent content in Posts on Prayer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 23 Aug 2021 17:19:16 -0500</lastBuildDate><atom:link href="https://devArtsw0rd7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 08:16:11 -0500</lastBuildDate><atom:link href="https://devArtsw0rd7.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning</title>
+      <link>https://devArtsw0rd7.github.io/posts/learningtopray/</link>
+      <pubDate>Tue, 24 Aug 2021 08:16:11 -0500</pubDate>
+      
+      <guid>https://devArtsw0rd7.github.io/posts/learningtopray/</guid>
+      <description>Lord, I know Oswald&amp;rsquo;s words are just the words of a man and not your words, but they seem to be good and convicting:
+&amp;ldquo;We talk about prayer as if God hears us regardless of what our relationship is to Him.&amp;rdquo;
+&amp;ldquo;There is no praying unless we are living as children of God.&amp;rdquo;
+You are Holy. You are also gracious, and I can approach you &amp;ldquo;just as I am.&amp;rdquo; The only way I can understand this is in tension- a picture of hands grasped and taught.</description>
+    </item>
+    
     <item>
       <title>Here I Go Again</title>
       <link>https://devArtsw0rd7.github.io/posts/hereigoagain/</link>
       <pubDate>Mon, 23 Aug 2021 17:19:16 -0500</pubDate>
       
       <guid>https://devArtsw0rd7.github.io/posts/hereigoagain/</guid>
-      <description>Lord, I want to be closer to you. Here is my attempt to talk with you more regularly. Bless it, and help me in this endeavor.</description>
+      <description>Lord, I want to be closer to you. Here is my attempt to talk with you more regularly. Bless it, and help me in this endeavor.
+Git Commands git status git add . git commit -m &amp;quot;Commit message here&amp;quot; git push origin main</description>
     </item>
     
   </channel>
