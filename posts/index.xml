@@ -26,7 +26,15 @@ You are Holy. You are also gracious, and I can approach you &amp;ldquo;just as I
       
       <guid>https://devArtsw0rd7.github.io/posts/hereigoagain/</guid>
       <description>Lord, I want to be closer to you. Here is my attempt to talk with you more regularly. Bless it, and help me in this endeavor.
-Git Commands git status git add . git commit -m &amp;quot;Commit message here&amp;quot; git push origin main</description>
+New post/Git Commands Generate new post file in ~/blog/prayerblog/:
+hugo newposts/NameOfPost.md
+Copy path of newly created post in ~/prayerblog/content/posts/
+cd content/posts/
+code . PATH/TO/POST
+Write post in VSCode, Save
+In terminal, cd to ~/blog/prayerblog/
+Check local changes: hugo server
+In browser, navigate to localhost:1313 and confirm additions/changes</description>
     </item>
     
   </channel>
